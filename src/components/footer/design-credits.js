@@ -20,7 +20,7 @@ const StyledSpan = styled.span`
 
 export const DesignCredits = ({ content, link, arialLabel }) => (
   <StyledSpan>
-    Design by:
-    <StyledLink rel="noreferrer" role="link" href={link} arial-label={arialLabel}> {content} </StyledLink>
+    Trabalhe comigo na
+    <StyledLink rel="noreferrer" role="link" target="_blank" href={link} arial-label={arialLabel}> {content} </StyledLink>
   </StyledSpan>
 );
