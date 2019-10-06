@@ -10,7 +10,7 @@ A simple and minimalist profile template
 
 ## Preview
 
-![Desktop](https://github.com/vmarcosp/minimalist-profile/blob/master/screenshots/desktop.JPG)
+![Desktop](https://github.com/vmarcosp/minimalist-profile/blob/master/screenshots/desktop.png)
 
 ![Mobile](https://github.com/vmarcosp/minimalist-profile/blob/master/screenshots/mobile.JPG)
 
