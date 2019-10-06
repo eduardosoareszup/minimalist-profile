@@ -1,24 +1,24 @@
 {
-  "pageTitle": "Eric Bachmann | Investor",
-  "name": "Eric Bachmann",
-  "themeColor": "",
-  "location": "Silicon Valley, California",
-  "biography": "Lorem ipsum dolor sit amet, ex quod graeci vituperata per, recusabo comprehensam vel id. Vim oblique recteque at. Doming torquatos an quo. Duis meis zril vim ea. Homero doming sit cu, ei laudem maiorum appetere sit. Deleniti atomorum eu sit. Ne iudico liberavisse sea. Nam at erant debitis, erant efficiendi cum in, ut pro iusto quaestio iudicabit.",
+  "pageTitle": "Eduardo Ribeiro | Programador Front-end",
+  "name": "Eduardo Soares",
+  "themeColor": "#81c784",
+  "location": "Uberlândia, Minas Gerais",
+  "biography": "Olá! Sou o Eduardo, atualmente trabalho com desenvolvimento Front-end em Uberlândia. Hoje utilizo principalmente Angular no meu dia-a-dia, mas já trabalhei por um bom tempo com VueJS, além de ser um entusiasta do Flutter, aos poucos tenho me aprofundado nessa tecnologia. Se você quiser me conhecer melhor clique em um dos links abaixo :D",
   "socialLinks": [
     {
       "name": "Github",
       "icon": "fa-github",
-      "link": "https://link-your-github"
+      "link": "https://github.com/eduardosoareszup"
     },
     {
       "name": "CodePen",
-      "icon": "fa-codepen",
-      "link": "https://link-your-codepen"
+      "icon": "fa-facebook",
+      "link": "https://www.facebook.com/e.j.ribeiro.s"
     },
     {
       "name": "LinkedIn",
       "icon": "fa-linkedin",
-      "link": "https://link-your-linkedin"
+      "link": "https://www.linkedin.com/in/eduardojoseribeiro/"
     }
   ]
 }
