@@ -14,7 +14,7 @@ A simple and minimalist profile template
 
 ![Mobile](https://github.com/vmarcosp/minimalist-profile/blob/master/screenshots/custom-mobile.jpg)
 
-[Live preview](https://minimalist-profile.netlify.com/)
+[Live preview](https://eduardo-soares.netlify.com/)
 
 ### How to use
 
