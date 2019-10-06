@@ -10,9 +10,9 @@ A simple and minimalist profile template
 
 ## Preview
 
-![Desktop](https://github.com/eduardosoareszup/minimalist-profile/tree/master/screenshots/custom-desktop.jpg)
+![Desktop](https://github.com/eduardosoareszup/minimalist-profile/blob/master/screenshots/custom-desktop.jpg)
 
-![Mobile](https://github.com/eduardosoareszup/minimalist-profile/tree/master/screenshots/custom-mobile.jpg)
+<img src="https://github.com/eduardosoareszup/minimalist-profile/blob/master/screenshots/custom-mobile.jpg" width="400" alt="Mobile"/>
 
 [Live preview](https://eduardo-soares.netlify.com/)
 
